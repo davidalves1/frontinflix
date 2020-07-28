@@ -19,7 +19,7 @@ export const Title = styled.h3`
 `;
 
 export const ExtraLink = styled.a`
-  margin-left: 16px;
+  margin-left: 5px;
   text-decoration: none;
   transition: opacity .3s;
   &:hover,
@@ -41,9 +41,9 @@ export const VideoCardList = styled.ul`
   display: flex;
   overflow-x: auto;
   flex-direction: row;
-  
+
   li {
-    margin-right: 16px;
+    margin-right: 5px;
   }
 `;
 
