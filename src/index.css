@@ -14,6 +14,7 @@
   --white: #ffffff;
   --bluePrimary: #030077;
   --blueSecondary: #005387;
+  --bodyPaddingTop: 94px;
 }
 
 html,
@@ -24,8 +25,22 @@ body {
 
 body {
   background: var(--background);
+  padding-top: var(--bodyPaddingTop);
+}
+
+@media (max-width: 800px) {
+  body {
+    --bodyPaddingTop: 40px;
+    padding-top: var(--bodyPaddingTop);
+  }
 }
 
 a {
   color: inherit;
+}
+
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
 }
