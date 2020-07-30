@@ -1,4 +1,9 @@
 {
+  "banner": {
+    "title": "Formação de Front End na Alura",
+    "description": "O que é front-end? Descubra o que faz uma dev front-end",
+    "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+  },
   "categorias": [
     {
       "titulo": "Vue",

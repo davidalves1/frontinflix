@@ -11,9 +11,9 @@ function Home() {
       <Menu />
 
       <BannerMain
-        videoTitle={api.categorias[0].videos[0].titulo}
-        videoDescription="O que é Front-end? Trabalhando na área"
-        url={api.categorias[0].videos[0].url}
+        videoTitle={api.banner.title}
+        videoDescription={api.banner.description}
+        url={api.banner.url}
       />
 
       <Carousel ignoreFirstVideo category={api.categorias[0]} />
