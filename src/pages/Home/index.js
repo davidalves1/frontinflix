@@ -18,9 +18,9 @@ function Home() {
 
       <Carousel ignoreFirstVideo category={api.categorias[0]} />
 
-      <Carousel ignoreFirstVideo category={api.categorias[1]} />
+      <Carousel category={api.categorias[1]} />
 
-      <Carousel ignoreFirstVideo category={api.categorias[2]} />
+      <Carousel category={api.categorias[2]} />
 
       <Footer />
     </>

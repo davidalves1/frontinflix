@@ -1,32 +1,32 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Vue",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#00C86F",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Vue.js, GraphQL e Node",
+          "url": "https://www.youtube.com/watch?v=TSX_hMfL13U"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O que posso fazer com Vue.js?",
+          "url": "https://www.youtube.com/watch?v=zZxeH_U-R6A"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Learn Vue.js - Full Course for Beginners - 2019",
+          "url": "https://www.youtube.com/watch?v=4deVCNJq3qc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Aprenda Electron JS e Vue JS nessa App IRADA! Projeto DESKTOP com JAVASCRIPT!",
+          "url": "https://www.youtube.com/watch?v=1szPVvS5ax8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
+          "titulo": "Instalando Vue js e aprendendo sobre reatividade",
           "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
         },
         {
@@ -44,10 +44,10 @@
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "React",
+      "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
+        "text": "",
         "url": "https://www.alura.com.br/cursos-online-programacao"
       },
       "videos": [
@@ -74,33 +74,33 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Angular",
+      "cor": "#dd0031",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-angular"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "O que é Angular e AngularJS?",
+          "url": "https://www.youtube.com/watch?v=LFlNU30u7d8"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "ANGULAR EM 7 MINUTOS - Tudo Que Você Precisa saber!",
+          "url": "https://www.youtube.com/watch?v=YX0y1FMlb8I"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Curso Angular",
+          "url": "https://www.youtube.com/watch?v=tPOMG0D57S0"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Angular Instalando o Angular CLI e criando o primeiro projeto",
+          "url": "https://www.youtube.com/watch?v=xqWovo6Enq0"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Svelte",
       "cor": "orange",
       "videos": [
         {
@@ -118,66 +118,6 @@
         {
           "titulo": "Feitiço do Tempo",
           "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }

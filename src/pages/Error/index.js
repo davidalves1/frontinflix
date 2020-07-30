@@ -17,7 +17,7 @@ export default function Error() {
   return (
     <PageWrapper>
       <img src="https://media.giphy.com/media/9J7tdYltWyXIY/source.gif" alt="Error 404" />
-      <h1>Página não encontrada! 🙁</h1>
+      <h1>Página não encontrada! <span role="img" aria-label="emoji">🙁</span></h1>
       <Link to="/">Voltar para a Home</Link>
     </PageWrapper>
   );
